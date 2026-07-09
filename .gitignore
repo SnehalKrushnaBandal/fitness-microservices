@@ -1,3 +1,25 @@
 .idea/
 out/
 .run/
+
+# Maven
+target/
+
+# IntelliJ
+*.iml
+
+# Maven Wrapper Logs
+.mvn/wrapper/maven-wrapper.jar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Build folders accidentally created
+${project.build.directory}/

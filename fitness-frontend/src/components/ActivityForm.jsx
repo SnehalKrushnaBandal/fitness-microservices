@@ -59,7 +59,7 @@ setActivity({
       </FormControl>
       <TextField
         fullWidth
-        label="Duration"
+        label="Duration (in minutes)"
         type="number"
         sx={{ mb: 2 }}
         value={activity.duration}

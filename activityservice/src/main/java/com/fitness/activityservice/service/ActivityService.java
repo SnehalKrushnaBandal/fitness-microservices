@@ -49,8 +49,6 @@ public class ActivityService {
 
         return mapToResponse(savedActivity);
 
-
-
     }
 
     private ActivityResponse mapToResponse(Activity activity) {
